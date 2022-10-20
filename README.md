@@ -1,2 +1,2 @@
-# Assemlber-with-Linker
-Two pass assenbler and linker written in C++ for system software course
+# Assembler-with-Linker
+Two pass assembler and linker written in C++ for System Software course
